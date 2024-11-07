@@ -1,4 +1,6 @@
 # Smart Lamp with Adaptive Power Management
+![image](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <img src="https://github.com/husaynirfan1/Smart-Adaptive-Lamp/blob/main/goals.png" width="600">
 
@@ -22,4 +24,15 @@
   - 1X PIR MOTION SENSOR
   - 1X ARDUINO UNO
   - 1X 128X32 OLED DISPLAY
-  - 1X USB LED LAMP 
+  - 1X USB LED LAMP
+ 
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+## Contact
+![image](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+- Husayn Irfan - mhusaynirfan@gmail.com
+- LinkedIn     - https://my.linkedin.com/in/husayn-irfan-7b4103258
+- Project link - https://github.com/husaynirfan1/Smart-Adaptive-Lamp/
